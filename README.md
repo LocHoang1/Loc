@@ -1,0 +1,2 @@
+# Loc
+Manager Store Computer
